@@ -1,0 +1,30 @@
+22:36:27.169 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:36:27.177 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:36:27.208 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Before Test method is called
+22:36:27.208 [main] INFO  com.ai.qa.util.ExcelData - Trying to open Excel file to read data
+22:36:27.593 [main] INFO  com.ai.qa.util.ExcelData - Excel file is opened to read data
+22:36:27.598 [main] INFO  com.ai.qa.util.ExcelData - Trying to read sheet with createchallenge
+22:36:27.608 [main] INFO  com.ai.qa.util.ExcelData - Full data is read from  createchallenge
+22:36:30.559 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:36:34.311 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:36:34.794 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:36:34.795 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:36:34.796 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:36:34.828 [main] DEBUG com.ai.qa.base.TestBase - Test failed, trying retry analyzer 0time
+22:36:34.829 [main] INFO  com.ai.qa.util.ExcelData - Trying to read sheet with createchallenge
+22:36:34.831 [main] INFO  com.ai.qa.util.ExcelData - Full data is read from  createchallenge
+22:36:37.380 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:36:40.162 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:36:40.676 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:36:40.676 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:36:40.676 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:36:43.364 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:36:46.446 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:36:46.946 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:36:46.947 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:36:46.947 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:36:49.437 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:36:51.810 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:36:52.277 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:36:52.277 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:36:52.278 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully

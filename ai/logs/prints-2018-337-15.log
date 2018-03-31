@@ -1,0 +1,2 @@
+23:37:01.506 [main] INFO  com.ai.qa.tests.CreateChallengeTest - Screen capture placed in extent report
+23:37:01.919 [main] INFO  com.ai.qa.util.ExtentReportAI - ExtentReport is generated

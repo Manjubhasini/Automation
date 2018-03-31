@@ -1,0 +1,9 @@
+22:43:53.831 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:43:53.839 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:43:53.872 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Before Test method is called
+22:43:53.874 [main] INFO  com.ai.qa.util.ExcelData - Trying to open Excel file to read data
+22:43:54.269 [main] INFO  com.ai.qa.util.ExcelData - Excel file is opened to read data
+22:43:54.274 [main] INFO  com.ai.qa.util.ExcelData - Trying to read sheet with createchallenge
+22:43:54.289 [main] INFO  com.ai.qa.util.ExcelData - Full data is read from  createchallenge
+22:43:56.957 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:43:59.928 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened

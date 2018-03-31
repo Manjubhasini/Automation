@@ -1,0 +1,45 @@
+23:46:00.938 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is completed successfully
+23:46:01.645 [main] INFO  com.ai.qa.util.CaptureScreenAI - Screen is captured for this test case
+23:46:01.647 [main] DEBUG com.ai.qa.util.ExtentReportAI - Test case is passed and Screenshot is available
+23:46:01.647 [main] INFO  com.ai.qa.tests.CreateChallengeTest - Screen capture placed in extent report
+23:46:04.516 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+23:46:07.753 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+23:46:08.146 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+23:46:08.146 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:46:08.147 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:46:08.149 [main] INFO  com.ai.qa.util.ExtentReportAI - Extent Report is initialized for createChallengeTest
+23:46:08.149 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is started
+23:46:08.286 [main] INFO  com.ai.qa.pages.LaunchPage - Login Button is clicked
+23:46:08.286 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:46:08.287 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:46:23.611 [main] INFO  com.ai.qa.util.CaptureScreenAI - Screen is captured for this test case
+23:46:23.612 [main] ERROR com.ai.qa.util.ExtentReportAI - Test case is failed and Screenshot is available
+23:46:23.612 [main] INFO  com.ai.qa.tests.CreateChallengeTest - Screen capture placed in extent report
+23:46:25.964 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+23:46:28.603 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+23:46:29.013 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+23:46:29.014 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:46:29.014 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:46:29.018 [main] INFO  com.ai.qa.util.ExtentReportAI - Extent Report is initialized for createChallengeTest
+23:46:29.018 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is started
+23:46:30.333 [main] INFO  com.ai.qa.pages.LaunchPage - Login Button is clicked
+23:46:30.333 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:46:30.334 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:46:32.061 [main] DEBUG com.ai.qa.base.TestBase - Login through Linkedin clicked
+23:46:32.061 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:46:32.062 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:46:36.430 [main] DEBUG com.ai.qa.base.TestBase - Username and Password entered and login clicked
+23:46:36.430 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:46:36.430 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:46:36.462 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - In Home Page
+23:46:41.705 [main] INFO  com.ai.qa.pages.HomePage - Window is scrolled and CreateChallenge is clicked
+23:46:41.705 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:46:41.706 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:46:41.716 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - In Post a challenge Page
+23:46:41.948 [main] DEBUG com.ai.qa.pages.PostChallengePage - Trying to switch to frame 
+23:46:57.055 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switch to frame successful 
+23:46:57.246 [main] DEBUG com.ai.qa.pages.PostChallengePage - Challenge description is entered 
+23:46:57.256 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switched back to default window
+23:46:57.576 [main] DEBUG com.ai.qa.pages.PostChallengePage - Window is scrolled and team member is selected
+23:46:57.864 [main] DEBUG com.ai.qa.pages.PostChallengePage - Link is clicked and link Url is entered
+23:46:58.173 [main] DEBUG com.ai.qa.pages.PostChallengePage - Anonymous Id is set

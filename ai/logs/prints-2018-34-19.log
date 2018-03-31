@@ -1,0 +1,11 @@
+13:04:00.927 [main] DEBUG com.ai.qa.base.TestBase - Username and Password entered and login clicked
+13:04:00.931 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:04:00.932 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:04:00.962 [main] DEBUG com.ai.qa.tests.CreateActivityTest - In Home Page
+13:04:11.904 [main] INFO  com.ai.qa.pages.HomePage - Window is scrolled and CreateChallenge is clicked
+13:04:11.904 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:04:11.904 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:04:12.406 [main] INFO  com.ai.qa.util.CaptureScreenAI - Screen is captured for this test case
+13:04:12.406 [main] ERROR com.ai.qa.util.ExtentReportAI - Test case is failed and Screenshot is available
+13:04:12.406 [main] INFO  com.ai.qa.tests.CreateActivityTest - Screen capture placed in extent report
+13:04:12.908 [main] INFO  com.ai.qa.util.ExtentReportAI - ExtentReport is generated

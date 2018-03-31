@@ -1,0 +1,9 @@
+23:47:02.280 [main] DEBUG com.ai.qa.pages.PostChallengePage - Keywords are selected 
+23:47:02.719 [main] DEBUG com.ai.qa.pages.PostChallengePage - Publish Challenge is clicked
+23:47:02.719 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:47:02.719 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:47:06.461 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is completed successfully
+23:47:06.667 [main] INFO  com.ai.qa.util.CaptureScreenAI - Screen is captured for this test case
+23:47:06.667 [main] DEBUG com.ai.qa.util.ExtentReportAI - Test case is passed and Screenshot is available
+23:47:06.668 [main] INFO  com.ai.qa.tests.CreateChallengeTest - Screen capture placed in extent report
+23:47:07.169 [main] INFO  com.ai.qa.util.ExtentReportAI - ExtentReport is generated

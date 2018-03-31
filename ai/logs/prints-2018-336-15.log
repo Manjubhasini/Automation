@@ -1,0 +1,24 @@
+23:36:00.364 [main] DEBUG com.ai.qa.pages.PostChallengePage - Keywords are selected 
+23:36:00.818 [main] DEBUG com.ai.qa.pages.PostChallengePage - Publish Challenge is clicked
+23:36:00.820 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:36:00.820 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:36:02.933 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is completed successfully
+23:36:03.150 [main] INFO  com.ai.qa.tests.CreateChallengeTest - Screen capture placed in extent report
+23:36:05.593 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+23:36:09.636 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+23:36:10.021 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+23:36:10.021 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:36:10.021 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:36:10.029 [main] INFO  com.ai.qa.util.ExtentReportAI - Extent Report is initialized for createChallengeTest
+23:36:10.030 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is started
+23:36:10.159 [main] INFO  com.ai.qa.pages.LaunchPage - Login Button is clicked
+23:36:10.159 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:36:10.160 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:36:25.556 [main] INFO  com.ai.qa.tests.CreateChallengeTest - Screen capture placed in extent report
+23:36:28.119 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+23:36:40.754 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+23:36:41.189 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+23:36:41.189 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:36:41.189 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:36:41.191 [main] INFO  com.ai.qa.util.ExtentReportAI - Extent Report is initialized for createChallengeTest
+23:36:41.191 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is started

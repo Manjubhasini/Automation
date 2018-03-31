@@ -1,0 +1,2 @@
+12:40:38.352 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+12:40:38.352 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully

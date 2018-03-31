@@ -1,0 +1,29 @@
+22:22:15.282 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:22:17.942 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:22:21.600 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:22:22.076 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:22:22.077 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:22:22.114 [main] DEBUG com.ai.qa.base.TestBase - Posting a new challenge test is started
+22:22:22.237 [main] DEBUG com.ai.qa.base.TestBase - Test failed, trying retry analyzer 0time
+22:22:24.520 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:22:28.855 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:22:29.383 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:22:29.383 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:22:29.385 [main] DEBUG com.ai.qa.base.TestBase - Posting a new challenge test is started
+22:22:30.475 [main] INFO  com.ai.qa.pages.LaunchPage - Login Button is clicked
+22:22:30.476 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:22:32.212 [main] DEBUG com.ai.qa.base.TestBase - Login through Linkedin clicked
+22:22:32.214 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:22:36.863 [main] DEBUG com.ai.qa.base.TestBase - Username and Password entered and login clicked
+22:22:36.865 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:22:36.875 [main] DEBUG com.ai.qa.base.TestBase - In Home Page
+22:22:40.790 [main] INFO  com.ai.qa.pages.HomePage - Window is scrolled and CreateChallenge is clicked
+22:22:40.793 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:22:40.853 [main] DEBUG com.ai.qa.base.TestBase - In Post a challenge Page
+22:22:41.465 [main] DEBUG com.ai.qa.pages.PostChallengePage - Trying to switch to frame 
+22:22:56.681 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switch to frame successful 
+22:22:56.851 [main] DEBUG com.ai.qa.pages.PostChallengePage - Challenge description is entered 
+22:22:56.856 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switched back to default window
+22:22:57.116 [main] DEBUG com.ai.qa.pages.PostChallengePage - Window is scrolled and team member is selected
+22:22:57.361 [main] DEBUG com.ai.qa.pages.PostChallengePage - Link is clicked and link Url is entered
+22:22:57.614 [main] DEBUG com.ai.qa.pages.PostChallengePage - Anonymous Id is set

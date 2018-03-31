@@ -1,0 +1,8 @@
+13:00:17.059 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:00:17.068 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:00:17.243 [main] INFO  com.ai.qa.util.ExtentReportAI - Extent Report information loaded
+13:00:17.246 [main] DEBUG com.ai.qa.tests.CreateActivityTest - Before Test method is called
+13:00:17.247 [main] INFO  com.ai.qa.util.ExcelData - Trying to open Excel file to read data
+13:00:17.715 [main] INFO  com.ai.qa.util.ExcelData - Excel file is opened to read data
+13:00:17.719 [main] INFO  com.ai.qa.util.ExcelData - Trying to read sheet with createactivity
+13:00:17.747 [main] INFO  com.ai.qa.util.ExtentReportAI - ExtentReport is generated

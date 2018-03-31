@@ -1,0 +1,24 @@
+22:11:01.824 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:11:02.233 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:11:02.233 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:11:02.234 [main] DEBUG com.ai.qa.base.TestBase - Posting a new challenge test is started
+22:11:03.261 [main] INFO  com.ai.qa.pages.LaunchPage - Login Button is clicked
+22:11:03.261 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:11:05.052 [main] DEBUG com.ai.qa.base.TestBase - Login through Linkedin clicked
+22:11:05.053 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:11:09.475 [main] DEBUG com.ai.qa.base.TestBase - Username and Password entered and login clicked
+22:11:09.476 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:11:09.519 [main] DEBUG com.ai.qa.base.TestBase - In Home Page
+22:11:12.793 [main] INFO  com.ai.qa.pages.HomePage - Window is scrolled and CreateChallenge is clicked
+22:11:12.794 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:11:12.805 [main] DEBUG com.ai.qa.base.TestBase - In Post a challenge Page
+22:11:13.008 [main] DEBUG com.ai.qa.pages.PostChallengePage - Trying to switch to frame 
+22:11:28.608 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switch to frame successful 
+22:11:28.759 [main] DEBUG com.ai.qa.pages.PostChallengePage - Challenge description is entered 
+22:11:28.764 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switched back to default window
+22:11:29.106 [main] DEBUG com.ai.qa.pages.PostChallengePage - Window is scrolled and team member is selected
+22:11:29.451 [main] DEBUG com.ai.qa.pages.PostChallengePage - Link is clicked and link Url is entered
+22:11:29.711 [main] DEBUG com.ai.qa.pages.PostChallengePage - Anonymous Id is set
+22:11:34.185 [main] DEBUG com.ai.qa.pages.PostChallengePage - Keywords are selected 
+22:11:34.739 [main] DEBUG com.ai.qa.pages.PostChallengePage - Publish Challenge is clicked
+22:11:34.740 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully

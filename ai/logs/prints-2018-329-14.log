@@ -1,0 +1,25 @@
+23:29:02.769 [main] INFO  com.ai.qa.pages.HomePage - Window is scrolled and CreateChallenge is clicked
+23:29:02.785 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:29:02.787 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:29:02.847 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - In Post a challenge Page
+23:29:03.410 [main] DEBUG com.ai.qa.pages.PostChallengePage - Trying to switch to frame 
+23:29:18.686 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switch to frame successful 
+23:29:18.960 [main] DEBUG com.ai.qa.pages.PostChallengePage - Challenge description is entered 
+23:29:18.965 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switched back to default window
+23:29:19.205 [main] DEBUG com.ai.qa.pages.PostChallengePage - Window is scrolled and team member is selected
+23:29:19.480 [main] DEBUG com.ai.qa.pages.PostChallengePage - Link is clicked and link Url is entered
+23:29:19.720 [main] DEBUG com.ai.qa.pages.PostChallengePage - Anonymous Id is set
+23:29:23.477 [main] DEBUG com.ai.qa.pages.PostChallengePage - Keywords are selected 
+23:29:23.801 [main] DEBUG com.ai.qa.pages.PostChallengePage - Publish Challenge is clicked
+23:29:23.803 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:29:23.803 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:29:29.730 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+23:29:32.677 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+23:29:33.137 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+23:29:33.137 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:29:33.137 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:29:35.584 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+23:29:38.469 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+23:29:38.850 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+23:29:38.850 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:29:38.850 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully

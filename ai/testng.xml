@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="TestNGExecutionListner"> </listener>
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="com.ai.qa.runners.CreateActivityRunner"/>
+      <class name="com.ai.qa.tests.CreateActivityTest"/>
+      <class name="com.ai.qa.tests.LaunchLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

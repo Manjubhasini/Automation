@@ -1,0 +1,8 @@
+23:21:00.290 [main] DEBUG com.ai.qa.pages.PostChallengePage - Publish Challenge is clicked
+23:21:00.318 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:21:00.318 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+23:21:06.170 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+23:21:09.097 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+23:21:09.509 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+23:21:09.509 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+23:21:09.510 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully

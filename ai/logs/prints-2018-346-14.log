@@ -1,0 +1,40 @@
+22:46:03.260 [main] DEBUG com.ai.qa.base.TestBase - Username and Password entered and login clicked
+22:46:03.265 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:46:03.265 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:46:03.318 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - In Home Page
+22:46:08.881 [main] INFO  com.ai.qa.pages.HomePage - Window is scrolled and CreateChallenge is clicked
+22:46:08.883 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:46:08.883 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:46:08.909 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - In Post a challenge Page
+22:46:09.044 [main] DEBUG com.ai.qa.pages.PostChallengePage - Trying to switch to frame 
+22:46:24.700 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switch to frame successful 
+22:46:24.948 [main] DEBUG com.ai.qa.pages.PostChallengePage - Challenge description is entered 
+22:46:24.953 [main] DEBUG com.ai.qa.pages.PostChallengePage - Switched back to default window
+22:46:25.226 [main] DEBUG com.ai.qa.pages.PostChallengePage - Window is scrolled and team member is selected
+22:46:25.478 [main] DEBUG com.ai.qa.pages.PostChallengePage - Link is clicked and link Url is entered
+22:46:25.741 [main] DEBUG com.ai.qa.pages.PostChallengePage - Anonymous Id is set
+22:46:29.574 [main] DEBUG com.ai.qa.pages.PostChallengePage - Keywords are selected 
+22:46:29.887 [main] DEBUG com.ai.qa.pages.PostChallengePage - Publish Challenge is clicked
+22:46:29.890 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:46:29.890 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:46:34.105 [main] DEBUG com.ai.qa.base.TestBase - Test failed, trying retry analyzer 0time
+22:46:34.105 [main] INFO  com.ai.qa.util.ExcelData - Trying to read sheet with createchallenge
+22:46:34.107 [main] INFO  com.ai.qa.util.ExcelData - Full data is read from  createchallenge
+22:46:36.322 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:46:40.282 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:46:40.768 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:46:40.768 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:46:40.769 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:46:40.771 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is started
+22:46:43.970 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:46:53.382 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:46:53.850 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:46:53.850 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:46:53.850 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:46:53.853 [main] DEBUG com.ai.qa.tests.CreateChallengeTest - Posting a new challenge test is started
+22:46:54.940 [main] INFO  com.ai.qa.pages.LaunchPage - Login Button is clicked
+22:46:54.943 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:46:54.943 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:46:56.326 [main] DEBUG com.ai.qa.base.TestBase - Login through Linkedin clicked
+22:46:56.326 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:46:56.329 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully

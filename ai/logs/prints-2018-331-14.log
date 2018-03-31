@@ -1,0 +1,39 @@
+22:31:00.271 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:31:03.280 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:31:03.689 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:31:03.690 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:31:03.690 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:31:03.733 [main] DEBUG com.ai.qa.base.TestBase - Test failed, trying retry analyzer 0time
+22:31:03.733 [main] INFO  com.ai.qa.util.ExcelData - Trying to read sheet with createchallenge
+22:31:03.734 [main] INFO  com.ai.qa.util.ExcelData - Full data is read from  createchallenge
+22:31:06.041 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:31:09.261 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:31:09.691 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:31:09.691 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:31:09.692 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:31:09.696 [main] DEBUG com.ai.qa.base.TestBase - Test failed, trying retry analyzer 1time
+22:31:09.696 [main] INFO  com.ai.qa.util.ExcelData - Trying to read sheet with createchallenge
+22:31:09.698 [main] INFO  com.ai.qa.util.ExcelData - Full data is read from  createchallenge
+22:31:11.836 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:31:16.795 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:31:17.207 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:31:17.207 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:31:17.207 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:31:17.213 [main] DEBUG com.ai.qa.base.TestBase - Test failed, trying retry analyzer 2time
+22:31:17.213 [main] INFO  com.ai.qa.util.ExcelData - Trying to read sheet with createchallenge
+22:31:17.216 [main] INFO  com.ai.qa.util.ExcelData - Full data is read from  createchallenge
+22:31:19.451 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:31:22.123 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:31:22.495 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:31:22.495 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:31:22.495 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:31:24.875 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:31:27.816 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:31:28.297 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:31:28.297 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:31:28.297 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+22:31:30.909 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+22:31:38.351 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+22:31:38.904 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+22:31:38.905 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+22:31:38.905 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully

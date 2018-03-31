@@ -1,0 +1,36 @@
+13:03:00.719 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+13:03:05.096 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+13:03:05.482 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+13:03:05.483 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:03:05.483 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:03:05.487 [main] INFO  com.ai.qa.util.ExtentReportAI - Extent Report is initialized for createActivityTest
+13:03:05.487 [main] DEBUG com.ai.qa.tests.CreateActivityTest - Posting a new activity test is started
+13:03:08.709 [main] INFO  com.ai.qa.pages.LaunchPage - Login Button is clicked
+13:03:08.710 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:03:08.711 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:03:10.542 [main] DEBUG com.ai.qa.base.TestBase - Login through Linkedin clicked
+13:03:10.542 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:03:10.543 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:03:25.891 [main] DEBUG com.ai.qa.base.TestBase - Username and Password entered and login clicked
+13:03:25.891 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:03:25.892 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:03:25.900 [main] DEBUG com.ai.qa.tests.CreateActivityTest - In Home Page
+13:03:34.194 [main] INFO  com.ai.qa.pages.HomePage - Window is scrolled and CreateChallenge is clicked
+13:03:34.194 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:03:34.194 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:03:34.598 [main] INFO  com.ai.qa.util.CaptureScreenAI - Screen is captured for this test case
+13:03:34.599 [main] ERROR com.ai.qa.util.ExtentReportAI - Test case is failed and Screenshot is available
+13:03:34.599 [main] INFO  com.ai.qa.tests.CreateActivityTest - Screen capture placed in extent report
+13:03:36.715 [main] DEBUG com.ai.qa.base.TestBase - Test started in  chromebroswer
+13:03:40.931 [main] DEBUG com.ai.qa.base.TestBase - Test Url is opened
+13:03:41.349 [main] DEBUG com.ai.qa.base.TestBase - All initialization done
+13:03:41.349 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:03:41.349 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:03:41.351 [main] INFO  com.ai.qa.util.ExtentReportAI - Extent Report is initialized for createActivityTest
+13:03:41.351 [main] DEBUG com.ai.qa.tests.CreateActivityTest - Posting a new activity test is started
+13:03:43.361 [main] INFO  com.ai.qa.pages.LaunchPage - Login Button is clicked
+13:03:43.361 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:03:43.361 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
+13:03:44.794 [main] DEBUG com.ai.qa.base.TestBase - Login through Linkedin clicked
+13:03:44.795 [main] DEBUG com.ai.qa.base.TestBase - Trying to load Configuration properties file
+13:03:44.795 [main] DEBUG com.ai.qa.base.TestBase - Configuration properties file is loaded successfully
